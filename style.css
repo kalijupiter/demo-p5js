@@ -40,7 +40,7 @@ html, body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background-color: aqua;
+    background-color: rgb(0, 116, 116);
     grid-column: 2/3;
     grid-row: 2/3;
   }
@@ -59,7 +59,7 @@ html, body {
     height: 50px;
     width: 50px;
     color: white;
-    background-color: #fcc006;
+    background-color: #9274e2;
     border-radius: 50%;
     display: flex;
     justify-content: center;
@@ -71,7 +71,7 @@ html, body {
     height: 0;
     border-top: 15px solid transparent;
     border-bottom: 15px solid transparent;
-    border-right: 15px solid #ca0147;
+    border-right: 15px solid #005809;
     margin: 2rem;
     margin-right: 35px;
   }
@@ -81,7 +81,7 @@ html, body {
     height: 0;
     border-left: 15px solid transparent;
     border-right: 15px solid transparent;
-    border-bottom: 15px solid #ca0147;
+    border-bottom: 15px solid #005809;
     margin: 2rem;
     margin-bottom: 35px;
   }
@@ -91,7 +91,7 @@ html, body {
     height: 0;
     border-top: 15px solid transparent;
     border-bottom: 15px solid transparent;
-    border-left: 15px solid #ca0147;
+    border-left: 15px solid #005809;
     margin: 2rem;
     margin-left: 35px;
   }
@@ -101,23 +101,23 @@ html, body {
     height: 0;
     border-left: 15px solid transparent;
     border-right: 15px solid transparent;
-    border-top: 15px solid #ca0147;
+    border-top: 15px solid #005809;
     margin: 2rem;
     margin-top: 35px;
   }
 
   .active-left {
-    border-right: 15px solid #c1f80a;
+    border-right: 15px solid #c5f3c9;
   }
 
   .active-up {
-    border-bottom: 15px solid #c1f80a;
+    border-bottom: 15px solid #c5f3c9;
   }
 
   .active-right {
-    border-left: 15px solid #c1f80a;
+    border-left: 15px solid #c5f3c9;
   }
 
   .active-down {
-    border-top: 15px solid #c1f80a;
+    border-top: 15px solid #c5f3c9;
   }
